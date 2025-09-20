@@ -22,17 +22,6 @@
 
 📜O script faz verificação automática de todos os pré-requisitos antes de iniciar o servidor.
 
-📂Estrutura de pastas
-projeto/
-│
-├─ server.js                -> Script Node.js que inicia o servidor
-├─ public/                  -> Pasta com arquivos HTML, CSS, JS
-│   └─ index.html           -> Página inicial
-├─ start.bat                -> Script automatizado para iniciar tudo
-├─ Fechar Servidores.bat    -> Script para encerrar servidor e Ngrok
-├─ Pre-requisitos.bat       -> Script para verificar as instalações necessárias
-└─ README.md
-
 ✨Como usar
 
 ✔️Coloque seus arquivos HTML dentro da pasta public.
@@ -77,9 +66,9 @@ Pode ser usado direto no navegador ou instalado como um **aplicativo** no celula
 
 ---
 
-## 🚀 Como usar
+## 🚀 Passo a passo
 1. Acesse o app neste link:  
-   👉 https://usuario2207ed-hue.github.io/Dashboard-PC-Monitor/ 
+   👉 https://usuario2207ed-hue.github.io/Servidor-HTML/
 
 2. No navegador do **celular (Chrome/Edge)**:  
    - Abra o menu (⋮)  
